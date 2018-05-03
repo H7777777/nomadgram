@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/H7777777/nomadgram2
+	branch = master
